@@ -6,6 +6,7 @@ export default function Menu({ activeTab, setActiveTab }) {
     { id: 'sumadora', label: ' Sumadora' },
     { id: 'traductor', label: 'Traductor 1-1000' },
     { id: 'tabla', label: ' Tabla Multiplicar' },
+    { id: 'video', label: 'Video Personal' },
   ];
 
   return (
